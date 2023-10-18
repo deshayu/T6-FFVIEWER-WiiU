@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace BlackOps2Explorer
+namespace FFExplorer
 {
     /// <summary>
     /// Interaction logic for AboutWindow.xaml

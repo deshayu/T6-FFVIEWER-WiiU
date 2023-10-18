@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace BlackOps2Explorer
+namespace FFExplorer
 {
     // https://github.com/LogosBible/Logos.Utility/blob/master/src/Logos.Utility/Security/Cryptography/Salsa20.cs
     public sealed class Salsa20 : SymmetricAlgorithm

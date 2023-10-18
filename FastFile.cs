@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using Ionic.Zlib;
 
-namespace BlackOps2Explorer
+namespace FFExplorer
 {
     public static class Helpers
     {

@@ -9,7 +9,7 @@ using MessageBox = System.Windows.MessageBox;
 using OpenFileDialog = Microsoft.Win32.OpenFileDialog;
 using SaveFileDialog = Microsoft.Win32.SaveFileDialog;
 
-namespace BlackOps2Explorer
+namespace FFExplorer
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

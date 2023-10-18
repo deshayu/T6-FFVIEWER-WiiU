@@ -5,7 +5,7 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 
-namespace BlackOps2Explorer
+namespace FFExplorer
 {
     // http://www.thomaslevesque.com/2011/03/27/wpf-display-an-animated-gif-image/
     public static class ImageBehavior

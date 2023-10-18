@@ -5,7 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Windows;
 
-namespace BlackOps2Explorer
+namespace FFExplorer
 {
     /// <summary>
     /// Interaction logic for App.xaml

@@ -1,4 +1,4 @@
-﻿namespace BlackOps2Explorer
+﻿namespace FFExplorer
 {
     enum XAssetType
     {
