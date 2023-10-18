@@ -19,4 +19,4 @@ jobs:
     - name: Setup dotnet
       uses: actions/setup-dotnet@v3
         
-    - run: dotnet build FFExploerer.sln
+    - run: dotnet build FFExplorer.sln
